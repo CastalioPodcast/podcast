@@ -19,5 +19,7 @@ Script
 * Como configutar
   * Plugins
   * "Frameworks"
+    * [Vim bootstrap](http://vim-bootstrap.com/)
+    * [oh-my-vim](https://github.com/gawel/oh-my-vim)
 * Truques
 * Final
