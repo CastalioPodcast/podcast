@@ -23,3 +23,7 @@ Script
     * [oh-my-vim](https://github.com/gawel/oh-my-vim)
 * Truques
 * Final
+
+Links
+-----
+* [Linux Voice](http://www.linuxvoice.com/download-linux-voice-issue-1-with-audio/)
