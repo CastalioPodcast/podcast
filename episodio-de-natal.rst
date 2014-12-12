@@ -27,6 +27,8 @@ Tópico: Tricks of the Trade
 
  * Como eliminar problemas de áudio quando duas ou mais pessoas falam ao mesmo tempo?
  * Como/onde hospedar seus arquivos de forma gratuita?
+ * Como atualizar o feed do iTunes?
+ * Como gerar feeds (FeedBurner)?
  
 Final
 =====
