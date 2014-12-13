@@ -30,6 +30,27 @@ Tópico: Tricks of the Trade
  * Como atualizar o feed do iTunes?
  * Como gerar feeds (FeedBurner)?
  
+Shownotes
+=========
+* Links mencionados na gravação:
+
+  * `Yeti Blue Microphone
+    <http://www.amazon.com/Blue-Microphones-Yeti-USB-Microphone/dp/B002VA464S/ref=sr_1_1?s=electronics&ie=UTF8&qid=1418434997&sr=1-1&keywords=yeti+blue+mic>`_
+  * `Auphonic - edição de áudio no cloud
+    <https://auphonic.com/>`_
+  * `Labirinto - programa da Rádio USP sobre RPG
+    <http://www.prisioneirosdaimaginacao.com.br/equipe.php>`_
+  * `GoAccess - estatísticas de acesso baseadas em logs
+    <http://goaccess.io/>`_
+  * `Buzzsprout - hosting para podcasts (pago)
+    <http://www.buzzsprout.com/>`_
+  * `Mind the Cloud - Create your static blog in 1 hour
+    <http://blog.mindthecloud.com/2014/08/31/create-your-static-blog-from-scratch-in-1-hour.html>`_
+  * `Uptime Robot - monitor de sites gratis
+    <https://uptimerobot.com>`_
+  * `CloudFlare - CDN e DNS grátis
+    <https://cloudflare.com>`_
+
 Final
 =====
  * Por ordem alfabética, cada um se despede e menciona quando o episódio será publicado/faz sua propaganda.
