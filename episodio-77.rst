@@ -20,9 +20,13 @@ Perguntas
 ---------
 * Paula, como foi que você começou na area de TI, como foi seu primeiro contato com a area e como começou a se interessar por programação? você se lembra qual foi o primeiro programa que você desenvolveu?
 
+* além de Python ficamos sabendo que você está estudando C#, está gostando?
+
 * atualmente você trabalha na Stone que é uma empresa de meios de pagamentos e anteriormente você também trabalhava em uma empresa so mesmo ramo, esta é uma boa area de especialização para quem trabalha com software livre e Python? quais são as tecnologias e conhecimentos e requisitos para ser desenvolvedor em uma empresa da area financeira? 
 
 * Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
+
+* Por falar em eventos e comunidade, sabemos que voc6e foi uma das palestrantes do CaiPyra, um evento um pouco diferente né? conte ai como foi o caiPyra?
 
 * Sabemos que você é uma das organizadoras dos eventos das PyLadies você poderia falar um pouco sobre as Pyladies para nossos ouvintes.
 
