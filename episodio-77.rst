@@ -1,0 +1,87 @@
+Episódio 77
+===========
+
+Apresentação
+------------
+(OM) Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!
+
+(OM) Eu sou o Og Maciel, falando de Chapel Hill, North Carolina...
+
+(ER) ... eu sou o Elyézer Rezende falando de ___
+(BR) ... e eu sou o Bruno Rocha falando de ___
+
+(OM) Nosso convidado(a?) de hoje atualmente trabalha na **Stone Pagamentos** com <tecnologia>, fez um tutorial sobre `Scrapy`_ (um framework para web crawlers [ou seria "parser" de web pages?), e voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ele é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!
+
+(OM) Tudo bem Paula?
+
+(PG) Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Perguntas
+---------
+* Foo
+* Bar
+* Baz
+
+Top 5
+-----
+* Música
+* Livros
+* Filmes/TV
+
+Final
+-----
+* Agradecimentos
+  * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
+  * Magnun Leno do `Hack'n'Cast`_
+
+Background
+==========
+
+Paula Grangeiro
+---------------
+Mora em: Duque de Caxias - Rio de Janeiro
+
+Trabalho
+--------
+* atual: Programadora na Stone Pagamentos
+* antes: Desenvolvedora Python no EloGroup (meios de pagamento)
+
+Tecnologias
+-----------
+* Scrapy (framework para crawlers) - Fez tutorial de scrapy
+* Django
+* Estudando C#
+
+Comunidade
+----------
+* Voluntária das PyLadies - Brasil
+* Voluntária das Django Girls
+* Rails Girls
+
+Eventos
+-------
+* Palestou no CaiPyRa evento com Python, quentão e paçoca (e carreta furacão)
+* Palestrou na PythonBrasil
+* Ganhou o Premio Dorneles Tremea durante a PyBr12
+
+
+Ultimo artigo no blog
+---------------------
+`Técnicas de passagem de conhecimento`_: Técnicas que não só ajudam com o nivelamento de conhecimento como estimulam o compartilhamento de informação dentro da equipe. E essa mentalidade é essencial para combater a formação de ilhas de conhecimento.
+
+
+Pessoal
+-------
+* é ilustradora (varias ilustrações e mangás no album dela do facebook)
+* Gosta de Gatos (faz/já fez campanhas para adoção)
+* Fã da banda Korn
+
+.. _Técnicas de passagem de conhecimento: https://blog.paulagrangeiro.com.br/t%C3%A9cnicas-de-passagem-de-conhecimento-b21e1a30ca79#.gzh62iv9t
+.. _Scrapy: https://scrapy.org/
+.. _PyLadies: http://brasil.pyladies.com/
+.. _Django Girls: https://djangogirls.org/
+.. _Rails Girls: http://railsgirls.com/
+.. _CaiPyRa: http://caipyra.python.org.br/
+.. _Python Brasil: http://blog.pythonbrasil.org.br/
+.. _Korn: http://korn.com/
+.. _Hack'n'Cast: http://mindbending.org/pt/category/hack-n-cast
