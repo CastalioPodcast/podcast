@@ -18,25 +18,25 @@ Apresentação
 
 Perguntas
 ---------
-* Paula, como foi que você começou na area de TI, como foi seu primeiro contato com a area e como começou a se interessar por programação? você se lembra qual foi o primeiro programa que você desenvolveu?
+* (OM) Paula, como foi que você começou na area de TI, como foi seu primeiro contato com a area e como começou a se interessar por programação? você se lembra qual foi o primeiro programa que você desenvolveu?
 
-* além de Python ficamos sabendo que você está estudando C#, está gostando?
+* (BR) além de Python ficamos sabendo que você está estudando C#, está gostando?
 
-* atualmente você trabalha na Stone que é uma empresa de meios de pagamentos e anteriormente você também trabalhava em uma empresa so mesmo ramo, esta é uma boa area de especialização para quem trabalha com software livre e Python? quais são as tecnologias e conhecimentos e requisitos para ser desenvolvedor em uma empresa da area financeira? 
+* (ER) atualmente você trabalha na Stone que é uma empresa de meios de pagamentos e anteriormente você também trabalhava em uma empresa so mesmo ramo, esta é uma boa area de especialização para quem trabalha com software livre e Python? quais são as tecnologias e conhecimentos e requisitos para ser desenvolvedor em uma empresa da area financeira? 
 
-* Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
+* (BR) Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
 
-* Por falar em eventos e comunidade, sabemos que voc6e foi uma das palestrantes do CaiPyra, um evento um pouco diferente né? conte ai como foi o caiPyra?
+* (BR) Por falar em eventos e comunidade, sabemos que voc6e foi uma das palestrantes do CaiPyra, um evento um pouco diferente né? conte ai como foi o caiPyra?
 
-* Sabemos que você é uma das organizadoras dos eventos das PyLadies você poderia falar um pouco sobre as Pyladies para nossos ouvintes.
+* (OM) Sabemos que você é uma das organizadoras dos eventos das PyLadies você poderia falar um pouco sobre as Pyladies para nossos ouvintes.
 
-* Na sua visão como está a questão da diversidade no mercado de TI hoje em dia? já é possivel notar uma melhoria na mentalidade? na sua opinião o que ainda falta e o que as instituições, empresas e comunidades podem fazer para ajudar?
+* (ER) Na sua visão como está a questão da diversidade no mercado de TI hoje em dia? já é possivel notar uma melhoria na mentalidade? na sua opinião o que ainda falta e o que as instituições, empresas e comunidades podem fazer para ajudar?
 
-* Como foi ganhar o Premio Dorneles Tremea, voce ja esperava por isso?
+* (ER) Como foi ganhar o Premio Dorneles Tremea, voce ja esperava por isso?
 
-* No seu facebook encontramos um álbum de ilustrações e gostamos muito, escolheremos uma delas para ilustrar este post se voc6e permitit, conte um pouco mais sobre seu envolvimento com as artes e ilustrações.
+* (BR) No seu facebook encontramos um álbum de ilustrações e gostamos muito, escolheremos uma delas para ilustrar este post se voc6e permitit, conte um pouco mais sobre seu envolvimento com as artes e ilustrações.
 
-* No perfil do seu instagram voc6e se apresenta como uma "colecionadora de gatos" quantos gatos vivem com você? e pq vc acha que eles são tão legais?
+* (OM) No perfil do seu instagram voc6e se apresenta como uma "colecionadora de gatos" quantos gatos vivem com você? e pq vc acha que eles são tão legais?
 
 
 Top 5
