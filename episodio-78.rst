@@ -12,6 +12,8 @@ Apresentação
 
 (OM) Nosso convidado de hoje...
 
+(OM) Tudo começou com um `Pull Request`_ ...
+
 Perguntas
 ---------
 * Foo
@@ -51,3 +53,5 @@ Background
 Redes Sociais
 -------------
 * Facebook: https://www.facebook.com/engel.gabriel
+
+.. _Pull Request: https://github.com/RocketChat/Rocket.Chat/issues/5016
