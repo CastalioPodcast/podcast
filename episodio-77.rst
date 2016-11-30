@@ -48,8 +48,14 @@ Top 5
 Final
 -----
 * Agradecimentos
-  * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
-  * Magnun Leno do `Hack'n'Cast`_
+    * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
+    * Magnun Leno do `Hack'n'Cast`_
+    * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
+    * Magnun Leno do `Hack'n'Cast`_
+    * HellBarba
+    * Lindolfo Lorn Rodrigues
+    * Elinaldo Monteiro 
+    * Rodrigo M. Arnhold
 
 Background
 ==========
