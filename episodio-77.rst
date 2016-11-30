@@ -10,7 +10,7 @@ Apresentação
 (ER) ... eu sou o Elyézer Rezende falando de ___
 (BR) ... e eu sou o Bruno Rocha falando de ___
 
-(OM) Nosso convidado(a?) de hoje atualmente trabalha na **Stone Pagamentos** com <tecnologia>, fez um tutorial sobre `Scrapy`_ (um framework para web crawlers [ou seria "parser" de web pages?), e voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ele é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!
+(OM) Nossa convidada de hoje atualmente trabalha na **Stone Pagamentos** com <tecnologia>, é voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ele é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!
 
 (OM) Tudo bem Paula?
 
@@ -21,6 +21,7 @@ Perguntas
 * Foo
 * Bar
 * Baz
+* Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
 
 Top 5
 -----
