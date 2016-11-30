@@ -18,10 +18,8 @@ Apresentação
 
 Perguntas
 ---------
-* Foo
-* Bar
-* Baz
-* Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
+* (BR) Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
+* (OM) Fala um pouco praá gente sobre o seu trabalho nos $PROJETOS Girls?
 
 Top 5
 -----
@@ -32,8 +30,12 @@ Top 5
 Final
 -----
 * Agradecimentos
-  * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
-  * Magnun Leno do `Hack'n'Cast`_
+    * Edson Lourenço (por ter mandado um email super bacana que pretendemos falar um pouco mais em outro episódio)
+    * Magnun Leno do `Hack'n'Cast`_
+    * HellBarba
+    * Lindolfo Lorn Rodrigues
+    * Elinaldo Monteiro 
+    * Rodrigo M. Arnhold
 
 Background
 ==========
