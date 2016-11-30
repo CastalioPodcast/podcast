@@ -37,9 +37,12 @@ Final
 Background
 ==========
 
-Paula Grangeiro
----------------
-Mora em: Duque de Caxias - Rio de Janeiro
+* Mora em: Duque de Caxias - Rio de Janeiro
+
+Redes Sociais
+-------------
+* Twitter: https://twitter.com/paulagrangeiro
+* Facebook: https://facebook.com/100001791492398
 
 Trabalho
 --------
