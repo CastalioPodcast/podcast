@@ -57,15 +57,6 @@ Final
     * Elinaldo Monteiro 
     * Rodrigo M. Arnhold
 
-Contato
--------
-
-Facebook
-Instagram
-LinkedIn
-Github
-Twitter
-
 Background
 ==========
 
@@ -75,6 +66,9 @@ Redes Sociais
 -------------
 * Twitter: https://twitter.com/paulagrangeiro
 * Facebook: https://facebook.com/100001791492398
+* Instagram: ?
+* LinkedIn: ?
+* Github: ?
 
 Trabalho
 --------
