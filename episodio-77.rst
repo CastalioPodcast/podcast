@@ -7,7 +7,7 @@ Apresentação
 
 (OM) Eu sou o Og Maciel, falando de Chapel Hill, North Carolina...
 
-(ER) ... eu sou o Elyézer Rezende falando de ___
+(ER) ... eu sou o Elyézer Rezende falando de Pouso Alegre, Minas Gerais
 (BR) ... e eu sou o Bruno Rocha falando de ___
 
 (OM) Nossa convidada de hoje atualmente trabalha como programadora na **Stone Pagamentos**, é voluntária das `PyLadies`_ Brasil, `Django Girls`_ e `Rails Girls`_. Além disso tudo, ela também palestrou nos eventos `CaiPyRa`_, `Python Brasil`_, ganhou o **Prêmio Dorneles Tremea**, é ilustradora, gosta de gatos, e as redes sociais indicam que ele é fã da banda `Korn`_. Ufa!!! Ladies and gentlemen, é com um grande prazer que eu apresento nossa convidada **Paula Grangeiro**!
@@ -56,6 +56,15 @@ Final
     * Lindolfo Lorn Rodrigues
     * Elinaldo Monteiro 
     * Rodrigo M. Arnhold
+
+Contato
+-------
+
+Facebook
+Instagram
+LinkedIn
+Github
+Twitter
 
 Background
 ==========
