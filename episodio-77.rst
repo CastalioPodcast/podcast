@@ -22,21 +22,21 @@ Perguntas
 
 * (BR) além de Python ficamos sabendo que você está estudando C#, está gostando?
 
-* (ER) atualmente você trabalha na Stone que é uma empresa de meios de pagamentos e anteriormente você também trabalhava em uma empresa so mesmo ramo, esta é uma boa area de especialização para quem trabalha com software livre e Python? quais são as tecnologias e conhecimentos e requisitos para ser desenvolvedor em uma empresa da area financeira? 
+* (ER) atualmente você trabalha na Stone que é uma empresa de meios de pagamentos e anteriormente você também trabalhava em uma empresa do mesmo ramo, esta é uma boa area de especialização para quem trabalha com software livre e Python? quais são as tecnologias e conhecimentos e requisitos para ser desenvolvedor em uma empresa da area financeira? 
 
-* (BR) Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy como podemos ver no seu github https://github.com/pgrangeiro/webscraping conte como foi essa experiência, você trabalha atualmente com scrapy?
+* (BR) Recentemente você participou e colaborou com um tutorial sobre webscraping com scrapy (como podemos ver no seu github https://github.com/pgrangeiro/webscraping) conte como foi essa experiência, você trabalha atualmente com scrapy?
 
-* (BR) Por falar em eventos e comunidade, sabemos que voc6e foi uma das palestrantes do CaiPyra, um evento um pouco diferente né? conte ai como foi o caiPyra?
+* (BR) Por falar em eventos e comunidade, este ano aconteceu no interior de São Paulo um evento bem interessante e um pouco diferente, você poderia contar como foi o CaiPyra e como foi a palestra que vc ministrou por lá? 
 
-* (OM) Sabemos que você é uma das organizadoras dos eventos das PyLadies você poderia falar um pouco sobre as Pyladies para nossos ouvintes.
+* (OM) Sabemos que você é uma das participantes e organizadoras dos eventos de algumas comunidades voltadas para as mulheres como PyLadies, Django Girls e Rails Girls você poderia falar um pouco sobre essas comunidades.
 
-* (ER) Na sua visão como está a questão da diversidade no mercado de TI hoje em dia? já é possivel notar uma melhoria na mentalidade? na sua opinião o que ainda falta e o que as instituições, empresas e comunidades podem fazer para ajudar?
+* (ER) Na sua visão como está a questão da diversidade e inclusão no mercado de TI hoje em dia? já é possivel notar uma melhoria na mentalidade? na sua opinião o que ainda falta e o que as instituições, empresas e comunidades podem fazer para ajudar?
 
-* (ER) Como foi ganhar o Premio Dorneles Tremea, voce ja esperava por isso?
+* (ER) Como foi ganhar o Premio Dorneles Tremea, voce já esperava por isso?
 
-* (BR) No seu facebook encontramos um álbum de ilustrações e gostamos muito, escolheremos uma delas para ilustrar este post se voc6e permitit, conte um pouco mais sobre seu envolvimento com as artes e ilustrações.
+* (BR) No seu facebook encontramos um álbum de ilustrações e gostamos muito, escolheremos uma delas para ilustrar este post se você permitir, conte um pouco mais sobre seu envolvimento com as artes e ilustrações.
 
-* (OM) No perfil do seu instagram voc6e se apresenta como uma "colecionadora de gatos" quantos gatos vivem com você? e pq vc acha que eles são tão legais?
+* (OM) No perfil do seu instagram você se apresenta como uma "colecionadora de gatos" quantos gatos vivem com você? e pq vc acha que eles são tão legais?
 
 
 Top 5
