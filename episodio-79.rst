@@ -10,15 +10,17 @@ Apresentação
 (ER) ... eu sou o Elyézer Rezende falando de ___
 (BR) ... e eu sou o Bruno Rocha falando de ___
 
-(OM) Nosso convidado de hoje...
+(OM) Nosso convidado de hoje é o Gabriel Engel da companhia Rocket.Chat...
 
 (OM) Tudo começou com um `Pull Request`_ ...
 
 Perguntas
 ---------
-* Foo
-* Bar
-* Baz
+* Prá começar, descreva ou defina prá nós, especialmente para quem não conhece o Rocket.Chat, o que é Rocket.Chat?
+* Quais são alguns dos recursos?
+* Conte prá gente sobre como que Rocket.Chat começou? 
+* Quais são as tecnologias usadas no Rocket.Chat? 
+* (Assumindo que Rocket.Chat começou como um projeto open source) Quando que Rocket.Chat virou um produto?
 
 Top 5
 -----
