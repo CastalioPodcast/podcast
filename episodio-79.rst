@@ -10,7 +10,11 @@ Apresentação
 (ER) ... eu sou o Elyézer Rezende falando de ___
 (BR) ... e eu sou o Bruno Rocha falando de ___
 
-(OM) Nosso convidado de hoje é o Gabriel Engel da companhia Rocket.Chat...
+(OM) Nosso convidado de hoje é o fundador da companhia Rocket.Chat, co-fundador da Konecty, ex-Senior Product Manager at Vodafone Group PLC, é de Porto Alegre (mas já morou em Lôndres), e segundo o Facebook, leu o livro "Free: The Future of a Radical Price" do Chris Anderson, o que me deixou com a pulga atrás da orelha... Então, é com um grande prazer que eu apresento nossa convidado Gabriel Engel.
+
+(OM) Tudo bem Gabriel?
+
+(GE) .....
 
 (OM) Tudo começou com um `Pull Request`_ ...
 
